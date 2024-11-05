@@ -1,7 +1,7 @@
 # Using ASAP for Single-Cell Analysis - 2024 SIB Course (Online)
 
 SIB/EPFL course by [Vincent Gardeux ](https://people.epfl.ch/vincent.gardeux)<br/>
-SIB course website: [https://www.sib.swiss/training/course/20231108_ASAP](https://www.sib.swiss/training/course/20241106_ASAP)<br/>
+SIB course website: [https://www.sib.swiss/training/course/20241106_ASAP](https://www.sib.swiss/training/course/20241106_ASAP)<br/>
 Recording of the 2023 lecture: <div style="text-align:center">[![YouTube Video Views](https://img.shields.io/youtube/views/OjFamgLC_8M?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OjFamgLC_8M)</div>
 
 
