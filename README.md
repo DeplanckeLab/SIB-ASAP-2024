@@ -1,13 +1,13 @@
-# Using ASAP for Single-Cell Analysis - 2023 SIB Course (Online)
+# Using ASAP for Single-Cell Analysis - 2024 SIB Course (Online)
 
 SIB/EPFL course by [Vincent Gardeux ](https://people.epfl.ch/vincent.gardeux)<br/>
-SIB course website: [https://www.sib.swiss/training/course/20231108_ASAP](https://www.sib.swiss/training/course/20231108_ASAP)<br/>
-Recording of the lecture: <div style="text-align:center">[![YouTube Video Views](https://img.shields.io/youtube/views/OjFamgLC_8M?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OjFamgLC_8M)</div>
+SIB course website: [https://www.sib.swiss/training/course/20231108_ASAP](https://www.sib.swiss/training/course/20241106_ASAP)<br/>
+Recording of the 2023 lecture: <div style="text-align:center">[![YouTube Video Views](https://img.shields.io/youtube/views/OjFamgLC_8M?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OjFamgLC_8M)</div>
 
 
 ***
 
-2023 Nov. 08th & 2023 Nov. 15th - Online
+2024 Nov. 06th - Online
 
 <br/>
 
@@ -25,7 +25,7 @@ In the hands-on part of this course, we will use a toy dataset consisting of 7,0
 
 ***
 
-2023.11.08 & 2023.11.15 - Online
+2024.11.06 - Online
 
 <br/>
 
@@ -42,8 +42,13 @@ This course will take place 100% online.
 
 ***
 
-- **2023.11.08 (3h)**: After a short introduction to single-cell genomics, and more particularly single-cell transcriptomics, we will see what is ASAP and how we can use it to perform single-cell analysis on an example dataset.
-- **2023.11.15 (3h)**: Hands-on session on a single-cell dataset where participants will perform all steps of the single-cell analysis pipeline themselves, and annotate cell types.
+- **09:00 – 10:30**:  Introduction to single-cell analysis using ASAP (Part 1). Introduction to single-cell genomics, and more particularly single-cell transcriptomics.
+- **10:30 – 10:45**:  Coffee break
+- **10:45 – 12:30**:  Introduction to single-cell analysis using ASAP (Part 2). Live example of how we can use ASAP to perform single-cell analysis on an example dataset.
+- **12:30 – 13:30**:  Lunch break
+- **14:00 – 15:30**:  Practical exercises (Part 1). Hands-on session on a single-cell dataset where participants will perform all steps of the single-cell analysis pipeline themselves, and annotate cell types.
+- **15:30 – 15:45**:  Coffee break
+- **15:45 – 18:00**:  Practical exercises (Part 2). Hands-on session part 2 and wrap-up.
 
 <br/>
 
